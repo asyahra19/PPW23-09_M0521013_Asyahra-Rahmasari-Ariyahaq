@@ -1,0 +1,16 @@
+body {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    background-color: white;
+    font-family: 'Courgette', cursive;
+}
+
+form{
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 20px;
+}

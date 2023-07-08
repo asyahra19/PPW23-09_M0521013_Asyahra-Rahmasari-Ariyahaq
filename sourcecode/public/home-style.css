@@ -1,0 +1,36 @@
+header{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.1)), url(banner.jpg);
+    background-size: cover;
+    background-position: center;
+    font-size: 20px;
+}
+
+h1{
+    font-family: 'Courgette', cursive;
+}
+
+nav{
+    background-color: #ffffff;
+}
+
+.navbar-header{
+    color: #28b2c7;
+}
+
+nav ul li a{
+    color: #28b2c7;
+    margin: 0 10px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.head-content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fbfbfb;
+}
